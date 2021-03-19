@@ -1,4 +1,4 @@
 Axel Minetest Mod
 ===
 
-Just some of the things Axel thought about and they became reality.
+Just a [Minetest](https://www.minetest.net/) mod to try out the API.
